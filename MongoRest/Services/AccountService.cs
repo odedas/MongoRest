@@ -25,6 +25,12 @@ namespace MongoRest.Services
             // throw new NotImplementedException();
         }
 
+        /// <summary>
+        /// Create
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public bool Create(int id, string name)
         {
             Account acc = new Account(id, name);
