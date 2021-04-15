@@ -1,0 +1,13 @@
+﻿    Setup a default route using "launchUrl": in appsettings.json
+    Add logging provider
+    Add logging middleware
+    Use env vars, commandline args and config services
+    Use cli to run, watch, build and deploy
+    Add controllers with routes & actions
+Add models and Mock injection
+Add services
+Add http/s requests to open api
+Add swagger
+Add DB connectin
+Add schema validations
+Add Client App - angular-Bootstrap
